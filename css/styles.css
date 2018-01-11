@@ -1,4 +1,18 @@
-{
+<title>Hello, world!</title>
+ </head>
+ <body>
+   <h1>Hello, world!</h1>
+
+
+
+font {
+  font-family: sans-serif;
+  font-size: 50px
+}
   font-family: sans-serif;
 
+}
+
+body {
+  display: inline-block;
 }
